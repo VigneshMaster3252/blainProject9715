@@ -6,3 +6,6 @@ from {{ ref('my_first_dbt_model') }}
 where id = 1
 
 -- Verify version changes
+
+-- Verify version changes02
+
